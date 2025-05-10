@@ -7,7 +7,7 @@ A Node.js + Express API that reads a CSV file from a configurable path, parses i
 ## ⚙️ Setup
 
 **Install dependencies**
-   bash
+   ```bash
    npm install
 
 ## API: Upload CSV
