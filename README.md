@@ -7,7 +7,7 @@ A Node.js + Express API that reads a CSV file from a configurable path, parses i
 ## ⚙️ Setup
 
 **Install dependencies**
-   ```bash
+   bash
    npm install
 
 ## API: Upload CSV
@@ -20,5 +20,4 @@ POST /upload
 
 ### Example cURL
 
-```bash
 curl -X POST http://localhost:3000/upload
